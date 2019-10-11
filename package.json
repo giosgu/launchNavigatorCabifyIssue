@@ -50,7 +50,7 @@
   "cordova": {
     "plugins": {
       "uk.co.workingedge.phonegap.plugin.launchnavigator": {
-        "GOOGLE_API_KEY_FOR_ANDROID": "AIzaSyDBJlpv_OPj7hz_Cv1-qDo1ba57er-uDHs"
+        "GOOGLE_API_KEY_FOR_ANDROID": "{api_key}"
       },
       "cordova-plugin-whitelist": {},
       "cordova-plugin-statusbar": {},
